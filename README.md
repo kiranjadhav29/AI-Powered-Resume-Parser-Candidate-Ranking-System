@@ -27,17 +27,21 @@ Highlights potential gaps between candidate profiles and job requirements.
 Generates a suitability score for each candidate.
 Ranks candidates based on predefined matching criteria.
 Helps recruiters prioritize the most relevant resumes.
+
 📈 Result Visualization
 Presents candidate analysis and ranking results through an interactive interface.
 Makes screening results easier to understand and compare.
+
 🌐 Interactive Web Application
 Built using Streamlit.
 Allows users to upload resumes and view analysis results through a simple web interface.
+
 📌 Project Highlights
 99.5% accuracy in resume information extraction.
 Reduced estimated manual screening time by approximately 65%.
 Developed an end-to-end workflow from resume upload → information extraction → job matching → candidate ranking.
 Deployed as an interactive Streamlit application.
+
 🛠️ Technologies Used
 Programming: Python
 Machine Learning: Scikit-learn
@@ -46,6 +50,7 @@ Data Processing: Pandas, NumPy
 Web Application: Streamlit
 Data Visualization: Matplotlib, Seaborn
 Document Processing: PDF/DOCX parsing
+
 🔄 Workflow
 Resume Upload
       ↓
@@ -60,8 +65,8 @@ Candidate Scoring
 Candidate Ranking
       ↓
 Results & Visualization
-💡 Use Case
 
+💡 Use Case
 The system can be used as an initial AI-assisted recruitment screening tool to help recruiters process large numbers of resumes, identify relevant candidates, and reduce the time spent on manual resume screening.
 
 🎯 Future Improvements
