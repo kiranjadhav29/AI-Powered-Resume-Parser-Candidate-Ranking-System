@@ -1,4 +1,4 @@
-# Resume-Analyzer
+# AI Resume-Analyzer
  The AI Smart Resume Analyzer is an intelligent application designed to streamline the recruitment process by automatically analyzing and evaluating resumes. Leveraging advanced natural language processing (NLP) techniques and machine learning algorithms, this project provides insights into candidate qualifications, skills, and experiences, helping recruiters make informed hiring decisions. Built with Streamlit, the application offers an interactive and user-friendly web interface.
 
 Key Features:
