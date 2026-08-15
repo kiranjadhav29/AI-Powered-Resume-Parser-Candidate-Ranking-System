@@ -1,17 +1,72 @@
 # AI-Powered Resume Parser & Candidate Ranking System
- The AI Smart Resume Analyzer is an intelligent application designed to streamline the recruitment process by automatically analyzing and evaluating resumes. Leveraging advanced natural language processing (NLP) techniques and machine learning algorithms, this project provides insights into candidate qualifications, skills, and experiences, helping recruiters make informed hiring decisions. Built with Streamlit, the application offers an interactive and user-friendly web interface.
+An intelligent resume screening application that uses Machine Learning and Natural Language Processing (NLP) to automatically extract candidate information, compare resumes with job requirements, and rank candidates based on their suitability.
 
-Key Features:
+The project was developed to reduce the manual effort involved in resume screening and help recruiters quickly identify relevant candidates.
 
-Resume Parsing: Extracts relevant information from resumes in various formats (PDF, DOCX, etc.) to identify key sections such as education, work experience, skills, and certifications.
-Keyword Matching: Compares resumes against job descriptions to highlight matches and identify gaps in qualifications.
-Scoring System: Assigns scores to resumes based on predefined criteria, allowing recruiters to quickly assess candidate suitability.
-Interactive Interface: Utilizes Streamlit to provide a seamless and intuitive web interface for uploading resumes and viewing analysis results.
-Data Visualization: Displays analysis results through charts and graphs for easy interpretation of candidate qualifications.
-Technologies Used:
+🏆 Achievement
 
-Python
-Streamlit
-Natural Language Processing (NLP) Libraries 
-Machine Learning Frameworks 
-Data Visualization Libraries 
+🥈 2nd Place — InnoHack 2025
+Selected among 100+ competing teams for developing an ML-powered resume analysis and candidate ranking solution.
+
+🚀 Key Features
+📄 Resume Parsing
+Accepts resumes in commonly used formats such as PDF and DOCX.
+Extracts relevant candidate information including:
+Education
+Skills
+Work Experience
+Certifications
+Other relevant details
+🎯 Job Requirement Matching
+Compares extracted resume information with job requirements.
+Identifies relevant skills and qualifications.
+Highlights potential gaps between candidate profiles and job requirements.
+📊 Candidate Ranking
+Generates a suitability score for each candidate.
+Ranks candidates based on predefined matching criteria.
+Helps recruiters prioritize the most relevant resumes.
+📈 Result Visualization
+Presents candidate analysis and ranking results through an interactive interface.
+Makes screening results easier to understand and compare.
+🌐 Interactive Web Application
+Built using Streamlit.
+Allows users to upload resumes and view analysis results through a simple web interface.
+📌 Project Highlights
+99.5% accuracy in resume information extraction.
+Reduced estimated manual screening time by approximately 65%.
+Developed an end-to-end workflow from resume upload → information extraction → job matching → candidate ranking.
+Deployed as an interactive Streamlit application.
+🛠️ Technologies Used
+Programming: Python
+Machine Learning: Scikit-learn
+NLP: Natural Language Processing
+Data Processing: Pandas, NumPy
+Web Application: Streamlit
+Data Visualization: Matplotlib, Seaborn
+Document Processing: PDF/DOCX parsing
+🔄 Workflow
+Resume Upload
+      ↓
+Resume Text Extraction
+      ↓
+Information / Skill Extraction
+      ↓
+Job Requirement Matching
+      ↓
+Candidate Scoring
+      ↓
+Candidate Ranking
+      ↓
+Results & Visualization
+💡 Use Case
+
+The system can be used as an initial AI-assisted recruitment screening tool to help recruiters process large numbers of resumes, identify relevant candidates, and reduce the time spent on manual resume screening.
+
+🎯 Future Improvements
+Integrate LLM-based resume understanding
+Add semantic similarity using embeddings
+Implement RAG for job-specific candidate analysis
+Add support for more resume formats
+Improve explainability of candidate scores
+Add recruiter dashboards and candidate comparison features
+Deploy the application using a cloud platform
