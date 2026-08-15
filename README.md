@@ -17,10 +17,12 @@ Skills
 Work Experience
 Certifications
 Other relevant details
+
 🎯 Job Requirement Matching
 Compares extracted resume information with job requirements.
 Identifies relevant skills and qualifications.
 Highlights potential gaps between candidate profiles and job requirements.
+
 📊 Candidate Ranking
 Generates a suitability score for each candidate.
 Ranks candidates based on predefined matching criteria.
